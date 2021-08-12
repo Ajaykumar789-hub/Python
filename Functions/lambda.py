@@ -1,4 +1,9 @@
 #reverse function
-a=[1,2,3,"ajay"]
-rev=a[::-1]
-print(rev)
+#a=[1,2,3,"ajay"]
+#rev=a[::-1]
+#print(rev)
+
+
+a=lambda x,y:x+y
+
+print(a(5,5))
