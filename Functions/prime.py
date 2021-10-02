@@ -12,4 +12,4 @@ def isprimenum(num):
         print(num, "is not a prime number")
 
 
-isprimenum(9)
+isprimenum(7)
